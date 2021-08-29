@@ -1,10 +1,3 @@
-![](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Text_Image_to_Hand_Written_Text_Image?color=red&label=Repo%20Size%20)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Text_Image_to_Hand_Written_Text_Image?color=red&label=Lines%20of%20Code)</br>
-![sds](https://profile-counter.glitch.me/{Text_Image_to_Hand_Written_Text_Image}/count.svg)
-
 ## Description: 
 Let's [**see**](https://github.com/Iamtripathisatyam/Text_Image_to_Hand_Written_Text_Image/blob/main/text_to_handwritten_text.py) a Python script that will convert Text to Handwritten Text.
 
