@@ -1,5 +1,5 @@
 ## Description: 
-Let's [**see**](https://github.com/Iamtripathisatyam/Text_Image_to_Hand_Written_Text_Image/blob/main/text_to_handwritten_text.py) a Python script that will convert Text to Handwritten Text.
+Let's [**see**](https://github.com/ranjanrajeev95/Text_Image_to_Hand_Written_Text_Image/blob/main/text_to_handwritten_text.py) a Python script that will convert Text to Handwritten Text.
 
 ***Pytesseract*** sometimes known as Python-tesseract, is a Python-based optical character recognition (**OCR**) program. It can read and recognize text in photos, license plates, and other documents. To interpret the words from the provided image, we'll utilize the tesseract software.
 
